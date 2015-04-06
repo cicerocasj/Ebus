@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">E-Bus</string>
+    <string name="set_bus">Informar</string>
+    <string name="get_bus">Localizar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_set">Escolha a linha</string>
+    <string name="title_activity_get">GetActivity</string>
+</resources>
